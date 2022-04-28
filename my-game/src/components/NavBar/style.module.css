@@ -1,0 +1,19 @@
+.mainBox {
+    background-color: #557B83 !important;
+}
+
+.link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #ffffff00;
+}
+
+.scoreBox {
+    display: flex;
+    width: 42%;
+}
+

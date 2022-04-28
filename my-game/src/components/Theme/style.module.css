@@ -1,0 +1,22 @@
+.mainBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+}
+
+.box {
+  background-color: #ffffff;
+  padding: 15px 50px;
+  border-radius: 15px;
+  margin: 10px 0px;
+  user-select: none;
+}
+
+.boxTheme {
+  width: 10rem;
+  background-color: #ffffff;
+  padding: 15px 30px;
+  border-radius: 15px;
+}

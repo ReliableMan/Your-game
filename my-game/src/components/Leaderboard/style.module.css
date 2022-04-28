@@ -1,0 +1,11 @@
+.mainBox {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.contentBox {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
